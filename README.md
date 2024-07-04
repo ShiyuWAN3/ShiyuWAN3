@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShiyuWAN3, an in coming PhD student at the University of Washington, Seattle.
+- 👋 Hi, I’m @ShiyuWAN3, an incoming PhD student at the University of Washington, Seattle.
 - 👀 I’m interested in epidemiology and biostatistics.
 - 🌱 I’m currently learning Python and c++.
 - 💞️ I’m looking to collaborate on epidemiological data analysis.
