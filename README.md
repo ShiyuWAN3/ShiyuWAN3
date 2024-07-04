@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShiyuWAN3, an undergraduate student in Peking University Health Science Center.
+- 👋 Hi, I’m @ShiyuWAN3, an in coming PhD student at the University of Washington, Seattle.
 - 👀 I’m interested in epidemiology and biostatistics.
-- 🌱 I’m currently learning real analysis and measure theory.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and c++.
+- 💞️ I’m looking to collaborate on epidemiological data analysis.
 - 📫 How to reach me: shiyu_wan_pkusph@163.com
 
 <!---
